@@ -1,3 +1,8 @@
+// createStore
+// getState
+// dispatch
+// subscribe
+
 // REDCUER
 function counter(state, action) {
 
